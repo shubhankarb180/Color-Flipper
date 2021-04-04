@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+#main-content{
+  background-color: aqua;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.app-title {
+  text-align: center;
+  font-family: 'Kaushan Script', cursive;
+}
