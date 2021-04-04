@@ -1,6 +1,5 @@
 # :rocket::rocket: Color Flipper :rocket::rocket:
 
-[Demo - ]([docs/CONTRIBUTING.md](https://color-flipper-a6fc9.web.app/))
 ## Description
 
 * Simple javascript application created using React Framework
@@ -8,3 +7,4 @@
 * Feel free to checkout the code
 * Used Bootstrap for styling the page
 * Single Webpage
+* [Demo](https://color-flipper-a6fc9.web.app/))
